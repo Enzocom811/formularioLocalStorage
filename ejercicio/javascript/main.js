@@ -24,7 +24,7 @@ localStorage.setItem("direccion",direccion)
 localStorage.setItem("localidad",localidad)
 }
 
-// Guardo el dato almacena en las keys para que queden al refrescar o cerrar la ventana/pestaña
+// Guardo el dato almacenado en las keys para que queden al refrescar o cerrar la ventana/pestaña
 let nombreAlmacenado = localStorage.getItem("nombre")
 let apellidoAlmacenado = localStorage.getItem("apellido")
 let mailAlmacenado = localStorage.getItem("mail")
